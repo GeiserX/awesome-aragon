@@ -4,6 +4,7 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
   <br><br>
   <p>Una selección de software open source que da soporte específico a Aragón, sus municipios, universidades e instituciones.</p>
+  <p>Búscalos en <a href="https://geiserx.github.io/awesome-aragon/">geiserx.github.io/awesome-aragon</a>.</p>
 </div>
 
 <!-- --8<-- [start:lista] -->
