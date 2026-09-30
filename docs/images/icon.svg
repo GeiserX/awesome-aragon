@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="256" height="256" role="img" aria-label="Awesome Aragón">
+  <!-- The favicon: the same sebka lozenge as logo.svg, on a plate in the
+       banner's darkest sky stop (#0a0a0f). The banner has no glow, so the
+       plate is plain. Ids carry an aw- prefix. -->
+  <defs>
+    <radialGradient id="aw-icon-glaze-g" cx="0.35" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#5fc394"/><stop offset="1" stop-color="#2f8a63"/>
+    </radialGradient>
+    <radialGradient id="aw-icon-glaze-w" cx="0.35" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#fffaf0"/><stop offset="1" stop-color="#cfc4a6"/>
+    </radialGradient>
+  </defs>
+  <rect width="360" height="360" rx="72" fill="#0a0a0f"/>
+  <g transform="translate(80 85) scale(5)">
+    <path d="M20,0 Q26,13 40,19 Q26,25 20,38 Q14,25 0,19 Q14,13 20,0 Z" fill="none" stroke="#c06f43" stroke-width="4.4" stroke-linejoin="round"/>
+    <path d="M20,0 Q26,13 40,19 Q26,25 20,38 Q14,25 0,19 Q14,13 20,0 Z" fill="none" stroke="#e39a68" stroke-width="2" opacity="0.55" transform="translate(0,-1)"/>
+    <circle cx="20" cy="19" r="4.6" fill="url(#aw-icon-glaze-g)" stroke="#3a2536" stroke-width="2"/>
+    <circle cx="0" cy="19" r="3" fill="url(#aw-icon-glaze-w)" stroke="#3a2536" stroke-width="2"/>
+    <circle cx="40" cy="19" r="3" fill="url(#aw-icon-glaze-w)" stroke="#3a2536" stroke-width="2"/>
+  </g>
+</svg>
