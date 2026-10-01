@@ -27,13 +27,13 @@ hide:
 
     ---
 
-    De Administración y Gobierno a Universidad e Investigación, pasando por Aragón Open Data, Zaragoza, UNIZAR, DGA. El índice lateral sigue la categoría que estás leyendo.
+    De Administración y Gobierno a Universidad e Investigación, pasando por Aragón Open Data, Zaragoza, UNIZAR, Gobierno de Aragón. El índice lateral sigue la categoría que estás leyendo.
 
 -   :material-magnify: **[Buscar un proyecto](https://geiserx.github.io/awesome-aragon/?q=Arag%C3%B3n%20Open%20Data)**
 
     ---
 
-    Pulsa `/` y escribe lo que necesitas: Aragón Open Data, Zaragoza, UNIZAR, DGA. La búsqueda cubre el nombre y la descripción de todas las entradas.
+    Pulsa `/` y escribe lo que necesitas: Aragón Open Data, Zaragoza, UNIZAR, Gobierno de Aragón. La búsqueda cubre el nombre y la descripción de todas las entradas.
 
 -   :material-plus-box-outline: **[Proponer un proyecto](https://github.com/GeiserX/awesome-aragon/issues/new?template=anadir-proyecto.md)**
 
