@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "aragon",
+  "project_id": "75db6e6c-6d66-4b69-a836-a8bbd91bb414"
+}
